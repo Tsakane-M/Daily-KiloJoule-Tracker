@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Traqueur quotidien de NJK"</string>
+    <string name="observe">Observez vos kilojoules</string>
+    <string name="exer_cate">Exercice</string>
+    <string name="f_breakfast">Petit déjeuner</string>
+    <string name="f_dinner">Dîner</string>
+    <string name="f_gym">" Le jogging"</string>
+    <string name="f_jogging">Gym</string>
+    <string name="f_lunch">Le déjeuner</string>
+    <string name="f_workout">Sport</string>
+    <string name="food_cat">" Aliments"</string>
+    <string name="njktrend">" Aliments"</string>
+    <string name="foodtt">Aliments</string>
+    <string name="averagenjki">NJK moyen</string>
+    <string name="datetxt">"Rendez-vous "</string>
+    <string name="diaryEn">Entrée de journal</string>
+    <string name="Enter">Entrer des valeurs ...</string>
+    <string name="totalnjki">" Total NJK"</string>
+    <string name="tott">Total</string>
+    <string name="extt">Exercice</string>
+</resources>

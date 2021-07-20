@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Daily NJK Tracker</string>
+    <string name="current_date" translatable="false">Wed, May 24</string>
+    <string name="food_cat">Food</string>
+    <string name="exer_cate">Exercise</string>
+
+    <string name="f_breakfast">Breakfast</string>
+    <string name="f_lunch">Lunch</string>
+    <string name="f_dinner">Dinner</string>
+
+    <string name="f_gym">Jogging</string>
+    <string name="f_jogging">Gym</string>
+    <string name="f_workout">Sport</string>
+
+    <string name="plusminus" translatable="false">+</string>
+    <string name="totalnjk" translatable="false">0.0</string>
+    <string name="njktrend">increase</string>
+    <string name="njktrendvalue" translatable="false">0.00 kj</string>
+
+    <string name="foodtotal" translatable="false">0.0</string>
+    <string name="exercisetotal" translatable="false">0.0</string>
+
+    <string name="averagenjk" translatable="false">0.0</string>
+    <string name="observe">Observe your KiloJoules</string>
+    <string name="foodtt">Food</string>
+    <string name="tott">Total</string>
+    <string name="extt">Exercise</string>
+    <string name="diaryEn">Diary Entry</string>
+    <string name="nkj" translatable="false">nkj</string>
+    <string name="Thu" translatable="false">Thu</string>
+    <string name="zero5" translatable="false">05</string>
+    <string name="kl" translatable="false">kl</string>
+    <string name="kj" translatable="false">kj</string>
+    <string name="Enter">Enter values...</string>
+    <string name="njk" translatable="false">njk</string>
+    <string name="Day" translatable="false">Wed</string>
+    <string name="month" translatable="false">Aug</string>
+    <string name="averagenjki">Average NJK</string>
+    <string name="datetxt">Date</string>
+    <string name="totalnjki">Total NJK</string>
+</resources>
